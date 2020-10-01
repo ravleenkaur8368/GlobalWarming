@@ -79,6 +79,47 @@ Higher temps inherit the damages from the lower temps
 
 These are just a sample of the possible effects, these will be configurable and implement randomness and probabilities.
 
+##Method for save earth from global worming
+The heat-trapping greenhouse gases are increasing,  global temperature is rising, planet is warming, the glaciers are melting and the sea level is rising. This weather change is drastically affecting wildlife and forests. Yes, global warming is happening due to the greenhouse effect. Some of the contributing factors are burning of fossil fuels, deforestation, livestock production and industrialisation. Consequently, it leads to drought, incessant rainfall, hurricanes, extreme heatwaves and other extreme weather conditions. With these adverse effects of global warming happening across the planet, we need to implement ways to stop global warming and protect the planet.
+
+Recycle more
+
+The aim is to cut down the amount of carbon dioxide released in the environment. If you even recycle half of the waste produced at home, you can save up to 2000 pounds of CO2 every year.
+
+Drive less
+
+Air pollution is one of the major factors that lead to an increase in greenhouse gases. Minimise the use of cars and make use of public transportation. Try walking, biking or carpooling whenever possible. If you reduce the driving hours, you will end up saving one pound of CO2 for every mile.
+
+Plant trees
+
+Deforestation plays an important role in global warming and climatic changes. Planting trees is helpful as they absorb carbon dioxide from the atmosphere and regulate the climate. Hence, there is a dire need to plant more trees because a single tree can absorb one ton of CO2 in its lifetime.
+
+Switch to renewable energy
+
+One of the most effective ways to prevent global warming is to start using renewable energy sources such as solar, geothermal, wind and biomass, and stop using fossil fuels. Use renewable energy resources to supply power to your home.
+
+Use energy-efficient devices
+
+By investing in energy-efficient devices such as bulbs, LED lights or solar-powered shower system, you can reduce the energy consumption and help in the production of clean energy. It is not only the cheapest way to reduce greenhouse gas emissions but it also reduces the amount of carbon dioxide released in the atmosphere.
+
+Use less hot water
+
+Do you know you can save 500 pounds of CO2 per year if you switch to cold showers and stop using hot water to wash clothes? Try installing energy-efficient geysers that consume less energy.
+
+Turn off electronic devices
+
+Ensure turning off your electronic devices such as television, computer, stereo, music player when not in use. This can help in saving fuel that is used to generate electricity which in turn can reduce thousand tons of carbon dioxide released in the atmosphere.
+
+Spread awareness
+
+Speak up about global warming, its consequences, causes and what steps we can take to prevent global warming with your friends, family and colleagues. Use the power of social media to voice out your concerns about climate change.
+
+Save water
+
+Make sure to turn off taps while brushing, go for shorter showers and do not waster water by cleaning your cars or bikes.
+
+By following these easy tips, all of us can play a significant role in reducing carbon dioxide emission and preventing global warming, thus, preserving the planet for future generations.
+
 
 ## Related Science of Climate Change
 ### Atmosphere warms with more CO2 because of Greenhouse Effect
@@ -94,7 +135,8 @@ Source: RIT "Climate Change: Science, Technology, and Policy" lecture slides
 ### Ecological Niche
 ![Niche](https://i.imgur.com/e6pwXlI.png)
 - Species have a temperature range in which they can survive
-- Plants also have niches (Sunlight, Temperature, Water, Nutrients, CO2, Soil, etc)
+- Plants also have niches (Sunlight, Temperature, Water, Nutrients, CO2, Soil, vehicle etc)
+
 
 Source: RIT "Climate Change: Science, Technology, and Policy" lecture slides
 
